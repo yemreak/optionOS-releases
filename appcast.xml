@@ -6,21 +6,20 @@
         <description>optionOS auto-update feed</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.11</title>
-            <pubDate>Sun, 01 Feb 2026 03:59:35 +0300</pubDate>
-            <sparkle:version>202602010356</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <title>Version 0.1.12</title>
+            <pubDate>Sun, 01 Feb 2026 15:41:15 +0300</pubDate>
+            <sparkle:version>202602011537</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>What's New in 0.1.11</h2>
-                <ul>
-                    <li>See release notes on GitHub</li>
-                </ul>
+                <h2>optionOS 0.1.12</h2>
+                <p>See release notes on GitHub</p>
+                <p><a href="https://github.com/yemreak/optionOS-releases/releases/tag/v0.1.12">Full release notes</a></p>
             ]]></description>
             <enclosure
-                url="https://github.com/yemreak/optionOS-releases/releases/download/v0.1.11/optionOS-0.1.11.dmg"
-                sparkle:edSignature="Tq3BuvS8P19akzoF9dAl/xPiKzQzDeX6SmkTNMznF/s3Zks4IPtiYxWJ+Y9fbi2hhHy0yqTIdVKGltmf2a1oCA=="
-                length="6781489"
+                url="https://github.com/yemreak/optionOS-releases/releases/download/v0.1.12/optionOS-0.1.12.dmg"
+                sparkle:edSignature="/oOYMRJx5qBeZaCyo36jdHMa8d7wdx7UqY7JK129+23QuP3tP4EOnOeDeP3YCBr6ssJLJtlEsWzFXJTIwT5sAA=="
+                length="7008168"
                 type="application/octet-stream"
             />
         </item>
