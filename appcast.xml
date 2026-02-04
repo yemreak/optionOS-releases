@@ -23,5 +23,24 @@
                 type="application/octet-stream"
             />
         </item>
+        <item>
+            <title>Version 0.1.13</title>
+            <pubDate>Wed, 04 Feb 2026 05:04:54 +0300</pubDate>
+
+            <sparkle:version></sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>optionOS 0.1.13</h2>
+                <p>See release notes on GitHub</p>
+                <p><a href="https://github.com/yemreak/optionOS-releases/releases/tag/v0.1.13">Full release notes</a></p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/yemreak/optionOS-releases/releases/download/v0.1.13/optionOS-0.1.13.dmg"
+                sparkle:edSignature="NBtE1/3wXivfQtkhU7WoViWF3NPYsRMV+cOEYkcnsSUGZqEU0JXuIGewT3/+MSZd8H4VDQlJBC/gK9POYxNsCA=="
+                length="7158252"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
